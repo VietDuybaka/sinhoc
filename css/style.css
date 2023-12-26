@@ -42,11 +42,11 @@
   box-sizing: border-box;
 }
         
-.container {
+.container1 {
   display: flex;
 }
 
-.column {
+.column1 {
   flex: 1;
   padding: 20px;
   border: 1px solid #ccc;
